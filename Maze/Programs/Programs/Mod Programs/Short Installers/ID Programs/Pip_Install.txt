@@ -1,0 +1,18 @@
+cmd
+
+
+#pn = {package name}
+#python os mod
+
+
+#step loop until done...
+#   os.system("pip install pn")
+
+cd D:\Maze\Programs\Programs\Mod Programs\Short Installers\ID Programs
+
+python Step.py
+
+quit
+
+
+
